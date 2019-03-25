@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/action_search"
+        android:title="Ara"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:icon="@drawable/ic_search_white_24dp"/>
+
+    <item
+        android:id="@+id/action_fridge"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_kitchen_black_24dp"
+        android:title="Buzdolabı"/>
+
+    <item android:title="@string/menu_action_main_menu"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_more_vert_white_24dp">
+        <menu>
+            <item
+                android:id="@+id/action_maps"
+                android:title="@string/menu_action_maps"
+                app:showAsAction="ifRoom"
+                android:icon="@drawable/planetlocation"
+                />
+            <item
+                android:id="@+id/action_about_us"
+                android:title="@string/menu_action_about_us"
+                app:showAsAction="ifRoom"
+                android:icon="@drawable/ic_people_morcivert_24dp"
+                />
+            <item
+                android:id="@+id/action_info"
+                android:title="@string/menu_action_information"
+                app:showAsAction="ifRoom"
+                android:icon="@drawable/ic_info_orangepink_24dp"/>
+        </menu>
+    </item>
+</menu>

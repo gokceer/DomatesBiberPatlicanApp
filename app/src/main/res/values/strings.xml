@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">DomatesBiberPatlican</string>
+    <string name="menu_action_about_us">Hakkımızda</string>
+    <string name="menu_action_information">Yardım</string>
+    <string name="menu_action_maps">Market Bul</string>
+    <string name="menu_action_search">Ara</string>
+    <string name="menu_action_more">More</string>
+    <string name="menu_action_main_menu">Main Menu</string>
+    <string name="hadi_pisirelim">Hadi Pişirelim!</string>
+    <string-array name="food_array">
+        <item>Domates</item>
+        <item>Un</item>
+        <item>Süt</item>
+        <item>Kaşar</item>
+        <item>Patlıcan</item>
+        <item>Yeşil Biber</item>
+        <item>Kıyma</item>
+        <item>Soğan</item>
+        <item>Galeta Un</item>
+        <item>Sarımsak</item>
+        <item>Yumurta</item>
+        <item>Patates</item>
+        <item>Maydanoz</item>
+        <item>Yufka</item>
+        <item>Maden Suyu</item>
+        <item>Toz Şeker</item>
+        <item>Kakao</item>
+        <item>Kabartma Tozu</item>
+        <item>Vanilya</item>
+        <item>Tavuk</item>
+        <item>Kırmızı Biber</item>
+        <item>Et</item>
+        <item>Sivri Biber</item>
+        <item>Üzüm Yaprağı</item>
+        <item>Limon</item>
+        <item>Pirinç</item>
+        <item>Kırmızı Mercimek</item>
+        <item>Havuç</item>
+        <item>Kabak</item>
+        <item>Turp</item>
+        <item>Kereviz</item>
+        <item>Pırasa</item>
+        <item>Kara Lahana</item>
+        <item>Beyaz Lahana</item>
+        <item>Yoğurt</item>
+        <item>Şehriye</item>
+        <item>Pilavlık Bulgur</item>
+        <item>Nohut</item>
+        <item>Buğday</item>
+        <item>Marul</item>
+        <item>Hamburger Ekmeği</item>
+        <item>Salatalık Turşusu</item>
+        <item>Fındık</item>
+        <item>Keçi Boynuzu</item>
+        <item>Ceviz</item>
+        <item>Süt Mısırı</item>
+        <item>İncir</item>
+        <item>Hindistan Cevizi</item>
+        <item>Nişasta</item>
+        <item>Krem Şanti</item>
+        <item>Brokoli</item>
+        <item>Karnabahar</item>
+        <item>İrmik</item>
+        <item>Avokado</item>
+        <item>Kısırlık Bulgur</item>
+        <item>Mantar</item>
+        <item>Makarna</item>
+        <item>Pudra Şekeri</item>
+        <item>Elma</item>
+        <item>Tarçın</item>
+
+
+    </string-array>
+
+</resources>
