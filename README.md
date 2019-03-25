@@ -32,3 +32,10 @@ Also, you can read ingredients and how to make parts by swiping the text parts u
 
 Ingredients of recipe and how to make the recipe can be listened via use of text to speech technology. If the user want to listen the recipe, she click to “DİNLE” button. Then, the recipe can be listened.
 
+![third](https://user-images.githubusercontent.com/32991962/54953709-ef7ad900-4f59-11e9-8db4-645f2243d412.PNG)
+
+We added the google maps to our application. User can see the markets on the around with this feature. We got Google API key to use Google Maps. We used maps, location, places and nearby services of Google Maps and the required implementations were done in build.gradle file. When the user press the "Market Bul (Find Market)" button, Google Maps automatically open and search the key "supermarkets". 
+
+![fourth](https://user-images.githubusercontent.com/32991962/54953852-42549080-4f5a-11e9-918b-79f6c611c8bf.PNG)
+
+
