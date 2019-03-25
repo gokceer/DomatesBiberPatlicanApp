@@ -1,7 +1,7 @@
 # DomatesBiberPatlicanApp
 Food Tracker and Recipe Adviser according to your ingredients
 
-Our project is Domates Biber PatlIcan which can be used as food tracker and adviser. 
+Our project is Domates Biber Patlican which can be used as food tracker and adviser. 
 It brings lots of recipes according to your item selected if it is available in application database. 
 Additionally, you can listen the recipes by clicking a listen button. Also, there is “Market Bul” button which provides connection to Google Maps and provide you to search for supermarkets around your location or other places. 
 As it is said before, our app has two functionality: food tracker and recipe adviser.
@@ -22,3 +22,13 @@ To remove selected items(ingredients) from the screen, you have to make double c
 
 
 After items selected and clicked “Hadi Pişirelim!” button, recipes or sorry not found layout will be open according to availability of related recipes in the database.
+
+![second](https://user-images.githubusercontent.com/32991962/54953445-47fda680-4f59-11e9-98bd-d6c353988274.PNG)
+
+In the creation of database, SQLite is used. Also to make updates, additions and deletions on database while adding recipes and items, DB Browser for SQLite was used.
+
+When we click on one of the recipes, activity which is opened includes the ingredients and image of recipe, and how to make the recipe and “Dinle” button.
+Also, you can read ingredients and how to make parts by swiping the text parts up and down. This property is provided by scroll view which is implemented into layout xml of the related activity page.
+
+Ingredients of recipe and how to make the recipe can be listened via use of text to speech technology. If the user want to listen the recipe, she click to “DİNLE” button. Then, the recipe can be listened.
+
