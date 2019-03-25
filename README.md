@@ -38,4 +38,12 @@ We added the google maps to our application. User can see the markets on the aro
 
 ![fourth](https://user-images.githubusercontent.com/32991962/54953852-42549080-4f5a-11e9-918b-79f6c611c8bf.PNG)
 
+# Food Tracker
+
+This part is about checking the expiry date of foods. If there is no food added into tracking list user press the add(fridge icon) button. Then enter the food name and its expiry date and save it.
+Furthermore, app sends notifications about the expiry date of food after it is expired.
+
+![fifth](https://user-images.githubusercontent.com/32991962/54954439-b5aad200-4f5b-11e9-8f88-22da0eef32f9.PNG)
+
+Thank You! :)
 
